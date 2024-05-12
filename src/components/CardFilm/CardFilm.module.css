@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid black;
+  align-items: center;
+  gap: 20px;
+}
+.container img {
+  width: 200px;
+}
+.actors {
+  display: flex;
+  gap: 5px;
+}
+.genres {
+  display: flex;
+  gap: 5px;
+}
+.wrapperDesc {
+  display: flex;
+}
