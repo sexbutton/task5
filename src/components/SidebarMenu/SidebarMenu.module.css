@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.main {
+  position: fixed;
+  right: 0;
+  background-color: aqua;
+  height: 100%;
+}
